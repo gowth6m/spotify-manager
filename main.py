@@ -10,3 +10,4 @@ class stalker:
 if __name__ == '__main__':
     stalker = stalker("Test Stalker")
     stalker.tester()
+
