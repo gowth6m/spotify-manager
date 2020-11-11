@@ -1,3 +1,0 @@
-#### Spotify-Stalker
-
-To track people's music...
